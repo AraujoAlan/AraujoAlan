@@ -30,7 +30,5 @@
   <a href="https://www.linkedin.com/in/alan-araujo-soares-79b719213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/alan-araujo-soares-79b719213/" target="_blank"><img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="_blank"></a> 
     
-      ![Snake animation](https://github.com/AraujoAlan/AraujoAlan/blob/output/github-contribution-grid-snake.svg)
-    
   </div>
   
