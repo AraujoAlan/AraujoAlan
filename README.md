@@ -1,7 +1,7 @@
 ## Olá! Me chamo Alan Araujo 👋
 
 
-- 💻 Hoje trabalho como full stack developer
+- 💻 Hoje trabalho como Full Stack Developer
 - 🎓 Cursando ADS na FIAP
 - 💡 Conhecimentos em: C# | Java | Python | SQL Server | HTML | CSS | JavaScript | Angular | Bootstrap
 - 🌱 Estudando API REST | 
